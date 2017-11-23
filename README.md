@@ -1,2 +1,2 @@
-# my-repo
-First Git repository
+# this is tedserres readme file
+tedserres Git repository
