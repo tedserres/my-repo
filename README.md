@@ -1,3 +1,3 @@
-Hello cloud Gurus
+Hello Cloud Gurus
 # this is tedserres readme file
 tedserres Git repository
